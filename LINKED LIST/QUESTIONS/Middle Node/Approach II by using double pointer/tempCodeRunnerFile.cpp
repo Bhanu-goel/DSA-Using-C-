@@ -1,0 +1,1 @@
+InsertAtHead(head,6);
